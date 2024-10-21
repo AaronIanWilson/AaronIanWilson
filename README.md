@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Engineering
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on new app ideas or side projects.
-- 📫 How to reach me Aaron.I.W@proton.me
+- 📫 How to reach me: Aaron.I.W@proton.me or <a href="https://www.linkedin.com/in/aaron-ian-wilson" target="_blank">LinkedIn</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a self-taught developer!
 
